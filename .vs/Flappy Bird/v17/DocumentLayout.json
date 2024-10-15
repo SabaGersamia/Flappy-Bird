@@ -1,13 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\SG\\Project\\C#\\Flappy Bird\\",
+  "WorkspaceRootPath": "C:\\Users\\gersa\\Desktop\\Flappy Bird\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26B81B0E-E85E-4403-8D74-AAE69E1ED9F2}|Flappy Bird\\Flappy Bird.csproj|g:\\sg\\project\\c#\\flappy bird\\flappy bird\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B81B0E-E85E-4403-8D74-AAE69E1ED9F2}|Flappy Bird\\Flappy Bird.csproj|solutionrelative:flappy bird\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B81B0E-E85E-4403-8D74-AAE69E1ED9F2}|Flappy Bird\\Flappy Bird.csproj|g:\\sg\\project\\c#\\flappy bird\\flappy bird\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{26B81B0E-E85E-4403-8D74-AAE69E1ED9F2}|Flappy Bird\\Flappy Bird.csproj|c:\\users\\gersa\\desktop\\flappy bird\\flappy bird\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{26B81B0E-E85E-4403-8D74-AAE69E1ED9F2}|Flappy Bird\\Flappy Bird.csproj|solutionrelative:flappy bird\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,26 +19,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "G:\\SG\\Project\\C#\\Flappy Bird\\Flappy Bird\\Form1.cs",
-              "RelativeDocumentMoniker": "Flappy Bird\\Form1.cs",
-              "ToolTip": "G:\\SG\\Project\\C#\\Flappy Bird\\Flappy Bird\\Form1.cs",
-              "RelativeToolTip": "Flappy Bird\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T11:58:44.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "G:\\SG\\Project\\C#\\Flappy Bird\\Flappy Bird\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gersa\\Desktop\\Flappy Bird\\Flappy Bird\\Form1.cs",
               "RelativeDocumentMoniker": "Flappy Bird\\Form1.cs",
-              "ToolTip": "G:\\SG\\Project\\C#\\Flappy Bird\\Flappy Bird\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\gersa\\Desktop\\Flappy Bird\\Flappy Bird\\Form1.cs [Design]",
               "RelativeToolTip": "Flappy Bird\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T11:45:36.704Z",
+              "WhenOpened": "2024-10-15T15:23:39.067Z",
               "EditorCaption": " [Design]"
             }
           ]

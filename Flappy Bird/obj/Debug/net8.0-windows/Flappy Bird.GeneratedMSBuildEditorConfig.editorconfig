@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Flappy_Bird
-build_property.ProjectDir = G:\SG\Project\C#\Flappy Bird\Flappy Bird\
+build_property.ProjectDir = C:\Users\gersa\Desktop\Flappy Bird\Flappy Bird\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

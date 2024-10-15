@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\SG\\Project\\C#\\Flappy Bird\\Flappy Bird\\Flappy Bird.csproj": {}
+    "C:\\Users\\gersa\\Desktop\\Flappy Bird\\Flappy Bird\\Flappy Bird.csproj": {}
   },
   "projects": {
-    "G:\\SG\\Project\\C#\\Flappy Bird\\Flappy Bird\\Flappy Bird.csproj": {
+    "C:\\Users\\gersa\\Desktop\\Flappy Bird\\Flappy Bird\\Flappy Bird.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\SG\\Project\\C#\\Flappy Bird\\Flappy Bird\\Flappy Bird.csproj",
+        "projectUniqueName": "C:\\Users\\gersa\\Desktop\\Flappy Bird\\Flappy Bird\\Flappy Bird.csproj",
         "projectName": "Flappy Bird",
-        "projectPath": "G:\\SG\\Project\\C#\\Flappy Bird\\Flappy Bird\\Flappy Bird.csproj",
+        "projectPath": "C:\\Users\\gersa\\Desktop\\Flappy Bird\\Flappy Bird\\Flappy Bird.csproj",
         "packagesPath": "C:\\Users\\gersa\\.nuget\\packages\\",
-        "outputPath": "G:\\SG\\Project\\C#\\Flappy Bird\\Flappy Bird\\obj\\",
+        "outputPath": "C:\\Users\\gersa\\Desktop\\Flappy Bird\\Flappy Bird\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gersa\\AppData\\Roaming\\NuGet\\NuGet.Config",
