@@ -1,0 +1,18 @@
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\bin\Debug\net8.0-windows\Flappy Bird.exe
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\bin\Debug\net8.0-windows\Flappy Bird.deps.json
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\bin\Debug\net8.0-windows\Flappy Bird.runtimeconfig.json
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\bin\Debug\net8.0-windows\Flappy Bird.dll
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\bin\Debug\net8.0-windows\Flappy Bird.pdb
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy_Bird.FlappyBird.resources
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy_Bird.Properties.Resources.resources
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.csproj.GenerateResource.cache
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.GeneratedMSBuildEditorConfig.editorconfig
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.AssemblyInfoInputs.cache
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.AssemblyInfo.cs
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.csproj.CoreCompileInputs.cache
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.sourcelink.json
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.dll
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\refint\Flappy Bird.dll
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.pdb
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\Flappy Bird.genruntimeconfig.cache
+G:\SG\Project\C#\Flappy Bird\Flappy Bird\obj\Debug\net8.0-windows\ref\Flappy Bird.dll
